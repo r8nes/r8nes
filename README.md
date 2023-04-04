@@ -25,7 +25,7 @@
 
 :seedling: Work like a Japanese 25\7.
 
-:zap: I do pet projects and study a lot of technologies.
+:zap: I do pet projects and study a lot of technologies during free time.
 
 </div>
 
