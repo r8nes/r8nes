@@ -55,7 +55,5 @@
 
 ### GitHub Progress
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r8nes&theme=darcula&hide_border=true&border_radius=1)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r8nes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
