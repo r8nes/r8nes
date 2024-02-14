@@ -46,6 +46,8 @@
 [![Recycle Factory](https://img.shields.io/badge/-Recycle_Factory-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.cyrm.recyclefactory&hl=en&gl=US&pli=1)
 [![Soda Defender](https://img.shields.io/badge/-Soda_Defender-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.CyberRom.SodaDefender&hl=en&gl=US)
 [![Neon Arcanoid](https://img.shields.io/badge/-Neon_Arcanoid-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.AngryCatStudio.NeonArcanoid)
+[![Domium](https://img.shields.io/badge/-Domium-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.DomiumInc.Domium&pli=1)
+[![Domium:World](https://img.shields.io/badge/-Domium_World-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.DomiumInc.DomiumWorld)
 
 ### Pet Projects
 
