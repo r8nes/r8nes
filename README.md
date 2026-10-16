@@ -25,16 +25,10 @@
 
 :seedling: Work like a Japanese 25\7.
 
-:zap: I do pet projects and study a lot of technologies during free time.
 
 </div>
 
 <div align="center">
-
-### My CV
-
-[![CV](https://img.shields.io/badge/-CV_Dmitriy-123456?style=for-the-badge&logo=GoogleMessages)](https://drive.google.com/file/d/1SutVr3vgkTQFIxNZEUu75hd7JZXtdF5_/view?usp=share_link/)
-
 
 ### Technology Stack
 
