@@ -42,19 +42,6 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-123456?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Blender](https://img.shields.io/badge/-Blender-123456?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
-### Games I Worked On
-[![Recycle Factory](https://img.shields.io/badge/-Recycle_Factory-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.cyrm.recyclefactory&hl=en&gl=US&pli=1)
-[![Soda Defender](https://img.shields.io/badge/-Soda_Defender-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.CyberRom.SodaDefender&hl=en&gl=US)
-[![Neon Arcanoid](https://img.shields.io/badge/-Neon_Arcanoid-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.AngryCatStudio.NeonArcanoid)
-[![Domium](https://img.shields.io/badge/-Domium-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.DomiumInc.Domium&pli=1)
-[![Domium:World](https://img.shields.io/badge/-Domium_World-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.DomiumInc.DomiumWorld)
-
-### Pet Projects
-
-[![Pet The Cat](https://img.shields.io/badge/-Pet_The_Cat-123456?style=for-the-badge&logo=GitHub)](https://github.com/r8nes/Cat_Life_Project_1)
-[![Helex](https://img.shields.io/badge/-Helex-123456?style=for-the-badge&logo=GitHub)](https://github.com/r8nes/Helix_Project_2)
-[![Rope Master](https://img.shields.io/badge/-Rope_Master-123456?style=for-the-badge&logo=GitHub)](https://github.com/r8nes/Rope_Project_4)
-
 ### GitHub Progress
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r8nes&theme=darcula&hide_border=true&border_radius=1)](https://git.io/streak-stats)
 </div>
